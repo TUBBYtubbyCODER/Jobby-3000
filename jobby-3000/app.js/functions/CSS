@@ -1,0 +1,12 @@
+npm init -y
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
+content: [
+  "./app.js/pages/**/*.js",
+  "./app.js/components/**/*.js",
+  "./app.js/functions/**/*.js",
+  "./index.html" // if you have an index.html
+],
+
+npx tailwindcss -i ./style.css -o ./output.css --watch
