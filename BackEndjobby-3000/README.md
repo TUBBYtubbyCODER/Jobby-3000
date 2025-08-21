@@ -63,4 +63,17 @@ npm start
 JOBBY-3000 is more than code. It is a fellowship of numbers and visuals, of queries and responses, of graphs and dreams. Treat it kindly, and it shall reveal truths hidden in the folds of data.
 
 🪢 Woven together with whimsy and wonder.
+
+~
+NOTES NOTES NOTES:
+
+-Based on North American Industry Classification System Codes:
+1. NAICS 6115, Technical and Trade Schools MAIN sector
+2. NAICS 61151, Technical and Trade Schools SUBsector
+3. NAICS 611513, Apprenticeship Training
+4. NAICS 611519, EE. All other Technical and Trade School
+
+NOTES END NOTES END NOTES END:
+~
+
 ---
