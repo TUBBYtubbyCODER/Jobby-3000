@@ -1,0 +1,3 @@
+SELECT *
+FROM NAICS_Data
+WHERE NAICS_Code = '6115'
